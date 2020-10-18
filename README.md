@@ -22,11 +22,14 @@
 
 ## 페이지 구성
 1. 메인 페이지
-![Main Page](image/MemoryBook_Main.png)
+![Main Page](image/Main.png)
 2. 책 정보 페이지
-![BookInfo Page](image/MemoryBook_BookInfo.png)
+![BookInfo Page](image/BookInfo.png)
+
+## DB 구성
+![ERD](image/BookERD.png)
 
 ## WBS
-![WBS](image/MemoryBook_WBS.png)
+![WBS](image/WBS.png)
 
 
